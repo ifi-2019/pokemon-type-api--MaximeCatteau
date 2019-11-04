@@ -1,0 +1,8 @@
+DispatcherServlet.class
+com/ifi/bo/PokemonType.class
+com/ifi/bo/Sprites.class
+HelloController.class
+com/ifi/bo/Stats.class
+com/ifi/repository/PokemonTypeRepository.class
+Controller.class
+RequestMapping.class

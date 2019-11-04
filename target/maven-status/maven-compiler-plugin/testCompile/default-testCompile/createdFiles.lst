@@ -1,0 +1,9 @@
+com/ifi/repository/PokemonTypeRepositoryTest.class
+DispatcherServletTest.class
+SomeControllerClassWithAVoidMethod.class
+SomeControllerClassWithAMethod.class
+JacksonDatabindTest$Car.class
+SomeControllerClass.class
+SomeEmptyClass.class
+SomeOtherControllerClass.class
+JacksonDatabindTest.class
